@@ -1,5 +1,5 @@
 # EDA Retail store
- In this project Exploratory Data Analysis of Retail store dataset has done using Python.
+ #In this project Exploratory Data Analysis of Retail store dataset has done using Python.
  Steps followed:
   1.fetch data from kaggle (https://www.kaggle.com/datasets/abhishekrp1517/online-retail-transactions-dataset)
   3. Understanding different parameters in datasets
